@@ -1,5 +1,5 @@
 # About me
-- __I make good__(ish) __code__ 🧑‍💻
+- __I make Awful code__ 🧑‍💻
 - __FRC Team 5227__ 🤖 (main programer)
 - __Celeste *is* cool__ (No really go play it)
 
